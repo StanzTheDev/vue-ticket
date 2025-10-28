@@ -18,7 +18,8 @@ const routes = [
     path: '/tickets', 
     component: TicketsPage,
     meta: { requiresAuth: true }
-  },
+  }
+  { path: '/:pathMatch(.*)*', redirect: '/' }
 ];
 
 const router = createRouter({
