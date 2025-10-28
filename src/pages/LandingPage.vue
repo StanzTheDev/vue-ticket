@@ -111,7 +111,7 @@
             <a href="#contact">Contact</a>
           </div>
           <div class="footer-copyright">
-            © 2024 TicketMaster Pro. All rights reserved.
+            © 2025 Paseo. All rights reserved.
           </div>
         </div>
       </div>
