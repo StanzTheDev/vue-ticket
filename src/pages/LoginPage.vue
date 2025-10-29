@@ -64,12 +64,6 @@
         </div>
       </div>
 
-      <div class="mt-6 p-4 bg-white rounded-lg border border-slate-200 text-center">
-        <p class="text-xs text-slate-500 mb-1">Demo credentials</p>
-        <p class="text-sm text-slate-700 font-mono">
-          demo@example.com / password123
-        </p>
-      </div>
 
       <div class="text-center mt-6">
         <router-link to="/" class="text-slate-500 hover:text-slate-700 text-sm inline-flex items-center gap-1">
